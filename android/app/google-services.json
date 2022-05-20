@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "308611306768",
+    "project_id": "flutter-cookbook-46430",
+    "storage_bucket": "flutter-cookbook-46430.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:308611306768:android:8f1eb8726e03f557e54195",
+        "android_client_info": {
+          "package_name": "ildar.rakhmatullin.firebase_demo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "308611306768-iffb3l5p5hv2lhm7cbb1qq611n3b3p5f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCzm0XerIfbHERQ0i-5Gl8yq-qwmm0Oz4w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "308611306768-iffb3l5p5hv2lhm7cbb1qq611n3b3p5f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
